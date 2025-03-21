@@ -5,5 +5,5 @@ Both flow and disparity checkpoints can be found at: https://drive.google.com/dr
 
 ## Demo
 
-https://github.com/user-attachments/assets/0f882d72-5d51-46dc-9a13-f27250dab9bc
+https://github.com/user-attachments/assets/f68824ac-7879-4fa5-8b0b-0eba04880dad
 
